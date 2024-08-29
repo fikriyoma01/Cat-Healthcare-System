@@ -3,6 +3,8 @@
 ## Deskripsi Singkat
 Cat Healthcare System adalah aplikasi berbasis web yang dirancang untuk mengelola layanan kesehatan kucing, termasuk layanan grooming, penitipan, dan konsultasi dokter. Aplikasi ini memungkinkan pemilik kucing untuk memesan layanan, sedangkan admin toko dapat mengelola jadwal layanan dan melihat laporan keuangan.
 
+Dokumentasi lengkap proyek: [sini](https://github.com/fikriyoma01/Cat-Healthcare-System/blob/main/dokumentasi_proyek/Cat%20Healthcare%20System-skpl.docx.pdf)
+
 ## Fitur
 - **Manajemen Layanan Grooming**: Admin toko dapat menambah, mengedit, dan menghapus jadwal layanan grooming.
 - **Manajemen Layanan Penitipan**: Admin toko dapat mengelola jadwal dan kuota layanan penitipan kucing.
@@ -59,3 +61,8 @@ Cat Healthcare System adalah aplikasi berbasis web yang dirancang untuk mengelol
   - **routes/**: Definisi rute API untuk berbagai entitas seperti `groomingServices`, `articles`, etc.
   - **models/**: Definisi model MongoDB menggunakan Mongoose.
   - **server.js**: File utama untuk menjalankan server Express.
+
+## Tampilan Proyek
+![Homepage](https://github.com/fikriyoma01/Cat-Healthcare-System/blob/main/dokumentasi_proyek/Homepage.png?raw=true)
+
+![grooming_schedule](https://github.com/fikriyoma01/Cat-Healthcare-System/blob/main/dokumentasi_proyek/grooming_schedule.png?raw=true)
